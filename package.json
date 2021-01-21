@@ -1,5 +1,5 @@
 {
-  "name": "try-cli-vue3-vite",
+  "name": "first-cli-vue3-vite",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
